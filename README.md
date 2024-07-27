@@ -5,4 +5,5 @@
 </div>
 
 I'm currently a python developer.
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHMya3FjbnJjcWVzZ3Jhc3ludW5mbnBmN3ZpeXQ1bXhqeXJiYmk4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/200.webp" width="500"/>
