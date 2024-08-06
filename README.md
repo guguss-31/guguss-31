@@ -1,10 +1,15 @@
+<p align="center">
+  <img alt="Welcome to my GitHub page !" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500px" />
+  <h1 align="center">Welcome to my GitHub page !</h1>
+</p>
+
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi..+I'm+guguss-31;This+is..;..my+Github+profil+!..;" alt="Typing SVG"/>
     </h1>
 </div>
 
-I'm currently a python developer.
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHMya3FjbnJjcWVzZ3Jhc3ludW5mbnBmN3ZpeXQ1bXhqeXJiYmk4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/200.webp" width="500"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="250"/>
 
