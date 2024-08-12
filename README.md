@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header" width=100%/>
+
 <p align="center">
   <img alt="Welcome to my GitHub page !" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500px" />
   <h1 align="center">Welcome to my GitHub page !</h1>
@@ -13,3 +15,4 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="250"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer" width=100%/>
