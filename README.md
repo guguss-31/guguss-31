@@ -11,8 +11,8 @@
     </h1>
 </div>
 
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="250"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="250"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="250"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer" width=100%/>
