@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header" width=100%/>
 
 <p align="center">
-  <img alt="Welcome to my GitHub page !" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500px" />
+  <img alt="Welcome to my GitHub profile !" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500px" />
   <h1 align="center">Welcome to my GitHub page !</h1>
 </p>
 
